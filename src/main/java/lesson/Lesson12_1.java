@@ -1,3 +1,5 @@
+package lesson;
+
 import java.util.HashMap;
 
 public class Lesson12_1 {

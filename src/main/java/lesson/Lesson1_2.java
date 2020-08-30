@@ -1,3 +1,5 @@
+package lesson;
+
 import java.math.BigInteger;
 
 public class Lesson1_2 {

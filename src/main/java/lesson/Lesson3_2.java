@@ -1,3 +1,5 @@
+package lesson;
+
 public class Lesson3_2 {
 	
 	/**

@@ -1,3 +1,5 @@
+package lesson;
+
 class Result {
 	public long wheatNum = 0;
 	public long wheatTotalNum = 0;
